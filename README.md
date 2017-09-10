@@ -1,4 +1,4 @@
-# das42 SQL Questions
+# SQL Questions
 
 The answers to the following questions have been provided in this repository.
 Each answered question has an SQL file attached to run in Looker.
