@@ -5,5 +5,5 @@
 -- is different
 
 select
-count(distinct email) as "Unique Users"
+count(distinct email) as "Distinct Users"
 from users
