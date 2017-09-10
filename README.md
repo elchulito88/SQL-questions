@@ -1,6 +1,6 @@
 # das42 SQL Questions
 
-The answers to the following questions have been provied in this repository.
+The answers to the following questions have been provided in this repository.
 Each answered question has an SQL file attached to run in Looker.
 There's also a formatted excel table with the output for each SQL query.
 
