@@ -1,5 +1,7 @@
 -- SQL code for Brand and Item Name with the highest price
 
+-- Q5
+
 select
 
 a.category as Category
