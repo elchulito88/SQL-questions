@@ -1,4 +1,4 @@
--- SQL code for the Total Sale of each User ID
+-- SQL code for the Total Spent by each User ID
 
 -- Q4
 select
