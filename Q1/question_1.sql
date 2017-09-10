@@ -1,7 +1,7 @@
--- SQL code for Distinct Users
+-- SQL code for Total Users
 
 -- Q1
 
 select
-count(*) email "Unique Users"
+count(*) email "Total Users"
 from users
