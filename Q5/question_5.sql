@@ -30,8 +30,8 @@ order by a.retail_price desc
       -- Brand item names are more expensive than men when it comes to sportswear
   -- Men
       -- Have the max price for 8 brand items
-      -- Brand item names are more expensive than woman when comapring outwear & coats, and shorts.
+      -- Brand item names are more expensive than woman when comparing outwear & coats, and shorts.
       -- Almost half of the highest prices for the brand item names come from the same vendor "True Religion"
   -- Both
-      -- Share 1 brand item price
+      -- Share 1 brand name item price
         -- Active
